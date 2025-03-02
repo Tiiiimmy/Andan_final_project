@@ -5,10 +5,10 @@
 - Файлы train и class достаточно большие, поэтому я их выгрузил на свой гугл-диск. Вот ссылка для скачивания: https://drive.google.com/drive/folders/1B4hBAkFQI6IO53kG9cXKA6LubPenUwyR?usp=drive_link
 
 ## Что в файлах:
--train -- обучающая выборка
--class -- тестовая выборка
--realclass -- ответы для нашей модели
--items -- 
+- train -- обучающая выборка
+- class -- тестовая выборка
+- realclass -- ответы для нашей модели
+- items -- 
 
 ## Описание переменных в файлах
 
